@@ -1,0 +1,8 @@
+YOLO==0.3.2
+matplotlib
+numpy
+opencv-python
+pandas
+seaborn
+torch
+ultralytics
